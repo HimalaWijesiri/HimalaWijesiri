@@ -26,8 +26,8 @@ Tools:         Git, VS Code
 ## 🤝 Let's Connect
 I'm always open to collaborating on interesting projects and learning from fellow developers!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/himala-wijesiri-502a2917b)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HimalaWijesiri)
 
 ## 💡 Fun Fact
 "I always strive to find the most efficient solution to any problem - it's not just about getting it done, it's about getting it done smart!"
