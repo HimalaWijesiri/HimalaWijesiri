@@ -23,9 +23,6 @@ Tools:         Git, VS Code
 - 📚 Continuously learning web development best practices
 - 🔍 Always on the lookout for new and efficient development approaches
 
-## 📊 GitHub Activity
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
 ## 🤝 Let's Connect
 I'm always open to collaborating on interesting projects and learning from fellow developers!
 
