@@ -6,7 +6,7 @@ Frontend-focused Web Developer with a growing interest in full-stack development
 ## 🛠️ Tech Stack
 ```text
 Frontend:      React, Angular, HTML5, CSS3
-Backend:       Laravel, C#
+Backend:       Laravel, NodeJS, C#
 Mobile:        Flutter
 Tools:         Git, VS Code
 ```
